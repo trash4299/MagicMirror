@@ -1,0 +1,2 @@
+# VincesMagicMirror
+ Vinces MagicMirror prioject
